@@ -1,0 +1,22 @@
+Use the person in my uploaded face photo as the identity reference. Preserve their facial structure, eyes, mouth, nose, skin tone, age and recognisable likeness; do not replace them with another person. Only change the outfit, hairstyle, facial hair, accessories and makeup explicitly described below. Any specified prosthetic nose or makeup is a costume effect on this same person. Keep body proportions natural and consistent.
+
+CHARACTER DESCRIPTION:
+PASTE CHARACTER DESCRIPTION HERE
+
+Layout: a photographic character reference sheet, 16:9 landscape, styled like a film wardrobe-department continuity board. Very light grey sheet background with a clean grid of photo panels separated by thin, even gutters (no borders, no shadows). Every photo is shot against the same light grey seamless studio backdrop in the same soft, even, natural light.
+
+Top row (about two-thirds of the sheet height), five tall panels, left to right:
+1. FRONT: full body facing the camera, cropped at the chin so the face is out of frame, down to the floor with both shoes fully visible. Standing straight, feet slightly apart, arms relaxed down along the body, hands visible.
+2. SIDE: true profile facing right, same chin-level crop, arms down, hand visible, shoes on the floor.
+3. BACK: full body from behind, from the top of the head to the floor, arms down, hands visible.
+4. FRONT CLOSE-UP: the widest panel. Head-and-shoulders portrait from mid-chest up, square to the camera, neutral expression, looking straight into the lens.
+5. TOP VIEW: high overhead shot looking down on the person, head slightly bowed, showing the top of the head, shoulders and foreshortened body, shoes visible at the bottom of the frame.
+At the far right of the top row: a narrow vertical height ruler in centimetres, 0 at the bottom to 200 at the top, fine tick marks numbered every 10, "CM" at the top.
+
+Bottom row (about a quarter of the sheet height): exactly 8 equal, near-square macro close-ups, using the eight subjects and captions listed in the character description, in that order. Fill each tile edge to edge with sharp texture from the same finished character and outfit.
+
+Captions: small uppercase condensed sans-serif in dark charcoal, centred directly under each panel: FRONT (HEAD NOT SHOWN), SIDE (HEAD NOT SHOWN), BACK, FRONT CLOSE-UP, TOP VIEW, plus a short name under each detail tile, e.g. FABRIC (JACKET), SHOE DETAIL. No other added text, logos or watermarks; retain lettering explicitly required on clothing.
+
+Style: real photography, not illustration. Neutral true-to-life colour, soft diffused light with gentle shadows, subtle 35mm film grain, crisp focus, rich fabric texture. The same person in the same outfit, consistent across every panel.
+
+Keep all five top panels and all eight detail tiles present. No illustration, 3D-render look, duplicated people within a panel, missing accessories or inconsistent costume details.
